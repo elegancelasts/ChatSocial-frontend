@@ -49,7 +49,7 @@ export const sampleNotifications = [
 export const sampleMessage = [
   {
     attachments: [],
-    content: "L*uda ka Message hai",
+    content: "John ka Message hai",
     _id: "sfnsdjkfsdnfkjsbnd",
     sender: {
       _id: "user._id",
@@ -99,7 +99,7 @@ export const dashboardData = {
 
   chats: [
     {
-      name: "LabadBass Group",
+      name: "Bass Group",
       avatar: ["https://www.w3schools.com/howto/img_avatar.png"],
       _id: "1",
       groupChat: false,
@@ -115,7 +115,7 @@ export const dashboardData = {
       },
     },
     {
-      name: "L*Da Luston Group",
+      name: "Lost Group",
       avatar: ["https://www.w3schools.com/howto/img_avatar.png"],
       _id: "2",
       groupChat: true,
@@ -135,7 +135,7 @@ export const dashboardData = {
   messages: [
     {
       attachments: [],
-      content: "L*uda ka Message hai",
+      content: "John ka Message hai",
       _id: "sfnsdjkfsdnfkjsbnd",
       sender: {
         avatar: "https://www.w3schools.com/howto/img_avatar.png",
